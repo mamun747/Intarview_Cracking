@@ -1,2 +1,3 @@
 <h1>📘 Interview Preparation Journey</h1>
 <h3>This repository captures a focused journey through front-end development interview preparation, covering JavaScript, React, CSS, and HTML. Each section contains a series of recruiter-style Q&As aimed at delivering short, clear answers on key concepts and technical questions. This approach enhances understanding and readiness for front-end interviews, with a special focus on building expertise in React, modern JavaScript, and efficient styling techniques.</h3>
+<h5>Thank you Hablu-Programmer to do this opperation to make us a expert front-end developer.....🙂</h5>
